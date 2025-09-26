@@ -1,8 +1,8 @@
-Expense Tracker Web App
+--> Expense Tracker Web App
 
 A simple and interactive Expense Tracker built using HTML, CSS, and JavaScript. This project helps users record their daily income and expenses, calculate balance automatically, and keep track of financial activities with a clean and responsive interface.
 
-🚀 Features
+-->🚀 Features
 
 ➕ Add new transactions with description and amount
 
@@ -14,7 +14,7 @@ A simple and interactive Expense Tracker built using HTML, CSS, and JavaScript. 
 
 📱 Fully responsive design for all devices
 
-🛠️ Tech Stack
+-->🛠️ Tech Stack
 
 HTML5 → Structure and layout
 
@@ -22,14 +22,14 @@ CSS3 → Styling and responsiveness
 
 JavaScript (ES6) → Logic and interactivity
 
-📂 Project Structure
+--->📂 Project Structure
 Expense-Tracker/
 │── index.html      # Main HTML file
 │── style.css       # Stylesheet
 │── script.js       # JavaScript functionality
 │── README.md       # Documentation
 
-🎯 How to Use
+-->🎯 How to Use
 
 1.Clone this repository:
 git clone https://github.com/your-username/expense-tracker.git
@@ -39,7 +39,7 @@ cd expense-tracker
 
 3.Open index.html in your browser.
 
-🌟 Future Enhancements
+-->🌟 Future Enhancements
 
 📊 Add charts/graphs for better visualization
 
@@ -47,10 +47,10 @@ cd expense-tracker
 
 ☁️ Integration with backend/database for multi-user support
 
-🤝 Contributing
+-->🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to fork this repo and submit a pull request.
 
-📜 License
+-->📜 License
 
 This project is open-source and available under the MIT License

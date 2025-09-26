@@ -1,0 +1,19 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+#transactions li {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+#transactions li.income {
+  background-color: #d4edda;
+  color: #155724;
+}
+
+#transactions li.expense {
+  background-color: #f8d7da;
+  color: #721c24;
+}
